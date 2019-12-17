@@ -7,7 +7,7 @@ eureka:
     #是否从eureka服务器获取注册信息
     fetch-registry: false
     service-url:
-      defaultZone: http://eureka2:8001/eureka/
+      defaultZone: http://eureka2:8002/eureka/
   server:
     eviction-interval-timer-in-ms: 10000
     #可以设置改参数值为false，以确保注册中心将不可用的实例删除
