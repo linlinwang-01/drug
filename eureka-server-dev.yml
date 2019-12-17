@@ -16,4 +16,4 @@ eureka:
   instance:
     lease-renewal-interval-in-seconds: 10
     lease-expiration-duration-in-seconds: 30
-    hostname: eureka
+    hostname: eureka1
